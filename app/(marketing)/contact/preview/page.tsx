@@ -5,7 +5,7 @@ export default function ContactPreview() {
     <Container className="py-12">
       <div className="mx-auto max-w-xl rounded-2xl border border-border bg-white p-8 shadow-card">
         <h2 className="mb-4 text-lg font-bold">Message sent!</h2>
-        <p className="mb-6">Thanks for reaching out — we'll reply within 24 hours.</p>
+        <p className="mb-6">Thanks for reaching out — we&apos;ll reply within 24 hours.</p>
 
         <hr className="my-6" />
 
